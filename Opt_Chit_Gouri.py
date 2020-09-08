@@ -5,6 +5,7 @@
 # The optimisation method includes the interest obtained from an external
 # source by lending bid winning amount.
 
+# Paid_amt dictionary has to be updated for every month after the bidding closure period.
 
 Paid_amt = dict()             # This has user defined Paid amounts for months upto chit months happened and for upcoming cht months, max_Paid_amt is taken as Paid amount.
 # Updation of Previous months Paid amounts Begins
